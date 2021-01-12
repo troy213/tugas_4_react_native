@@ -30,4 +30,5 @@ Pada tugas ini anda diminta untuk membuat sebuah project baru dengan nama tugas4
 3. Di Dalam File App.js :
   - Import File Contents.js Yang Berada Di Dalam Folder Component.
 4. Tampilan Aplikasi :
+
 ![img1](https://lh6.googleusercontent.com/oUPwmmx9POprlM-5DhyiVpCiEkb8CDTn9zm1NNOP-EQplSrigmE9YkRuLHAgct_V0zMiNHqx8L0Jem2IpFLcestPzlHF61n0vAsOe6ThCH7ExP4wBaZezdUELRkfv2uTEVsaL-Ww)
